@@ -1,7 +1,7 @@
 CONTENTS:
 
 Scripts to procced data:
-comparer.py  - to compare latency distributions, see README_comparer for further details
+comparer.py  - to compare latency distributions, see README_comparer for further details <br \>
 plotter.py  -  to plot latency distributions, see README_plotter for further details
 SummarizeHistogramLogRange.jar  -  to prepare data from .hdrh, see README_SummarizeHistogramLogRange for further details
 
