@@ -1,0 +1,12 @@
+This is the small example of full usage. 
+
+Preciece explanation of each script usage can be found in /azul-fin base directory in README_* files.
+
+1) run ./process_data.sh to produce .rd files from .hdrh
+2) run ./run_comparer.sh with two input arguments which are names of VM you want to compare. 
+In this example this should be Dev, Highlander or Oracle. 
+$~: ./run_comparer.sh Dev Oracle
+This script will produce all output to log.out file, also plots will be saved as picture and interactive plot will be shown in external window.
+3) run ./run_plotter.sh with any number of arguments from list: Dev, Highlander or Oracle. This will plot the results and save picture to file.
+
+

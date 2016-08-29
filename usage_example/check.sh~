@@ -1,0 +1,2 @@
+#!/bin/bash
+python .././plotter.py -if ./data/Oracle ./data/Dev -bn Oracle Dev -rq READ -al 0 800 0 0.02 -p -oi 'asa.pdf'

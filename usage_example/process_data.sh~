@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./hdrh_to_rd.sh Oracle
+./hdrh_to_rd.sh Dev
